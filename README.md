@@ -1,2 +1,2 @@
-# cs186
-Section slides for CS186, spring 2015.
+# CS186 Discussion Notes
+Section slides and notes for CS186, Spring 2015.
